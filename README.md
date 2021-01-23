@@ -1,0 +1,2 @@
+# veteach
+veteach.in is India’s first learning platform specifically designed to cater to the needs of BTech students. On this platform, one can find video lessons designed as per the university syllabus. These shorts videos provide conceptual clarity for difficult concepts that would take hours to learn in regular classes. In a nutshell, Veteach. in is the one-stop solution to achieve distinction in university exams                 
